@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ftb.iml" filepath="$PROJECT_DIR$/.idea/modules/ftb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ftb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ftb_main.iml" group="ftb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ftb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ftb_test.iml" group="ftb" />
+    </modules>
+  </component>
+</project>
